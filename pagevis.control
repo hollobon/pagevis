@@ -1,0 +1,4 @@
+# pagevis extension
+comment = 'visualise database pages'
+default_version = '0.1'
+relocatable = true
