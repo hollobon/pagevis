@@ -11,7 +11,7 @@ pageinspect `get_raw_page` function.
 The results of `show_page` are multiple records with a single text column, for a total of
 `block_size` characters (default 8192), one representing each byte on the page.
 
-The meaning of is character is as shown in this table:
+The meaning of each character is as shown in this table:
 
 ```
 | *Character* | *Meaning*                                     |
